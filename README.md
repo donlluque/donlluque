@@ -9,7 +9,7 @@
 
 - 📫 If you want, you can mail me: **donlluque@gmail.com**
 
-- Or you can visit my ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white, https://www.linkedin.com/in/donlluque/)
+- Or you can visit my [https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/donlluque/)
 
 
 
