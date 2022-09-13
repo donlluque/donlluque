@@ -1,6 +1,6 @@
 <div align="left">
 
-[![Linkedin](https://img.shields.io/badge/LuisLuque-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/rzashakeri/](https://www.linkedin.com/in/donlluque/)
+[![Linkedin](https://img.shields.io/badge/LuisLuque-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/donlluque/)
 
  
 </div>  
