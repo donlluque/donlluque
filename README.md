@@ -1,28 +1,59 @@
 ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
-<h1 align="center">Hello there 🤜🏼🤛🏼 I'm Luigy</h1>
-<h3 align="left">👨🏼‍💻 I’m working hard to become the best BackEnd Developer that I can be</h3>
-<h3 align="left">🤯 I've just graduated from www.soyhenry.com </h3>
-<br/>
-
-
-<h3 align="left">⌨️ Some technologies I can work with:</h3>
-
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![PostreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Keroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+<h1 align="center">Hi there 👋 I'm Luigy</h1>
+<h3 align="center">Python Developer & Data Analyst</h3>
+<p align="center">
+  <em>Data automation with Python focused on accuracy and repeatability</em>
+</p>
 
 <br/>
 
-<h3 align="left">⌨️ Now a days I'm starting to learn and practice:</h3>
+## 🎯 Services
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+I build Python automation solutions that convert manual file/API tasks into validated, reproducible processes:
+
+- **Data Processing**: CSV/Excel merging, normalization, and validation
+- **API Integration**: Paginated extraction with filtering and error handling  
+- **PDF Operations**: Text extraction and pattern-based batch renaming
+- **Data Pipelines**: End-to-end workflows with quality checks
+- **Backend APIs**: FastAPI/Flask services for data operations
+
+**→ [View Complete Service Details](./SERVICES.md)**
 
 <br/>
 
-<h3 align="left">🤝 If you want, you can reach me here:</h3>
+## 🛠️ Tech Stack
 
-[![Linkedin](https://img.shields.io/badge/LuisLuque-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/donlluque/) [![Gmail Badge](https://img.shields.io/badge/LuisLuque-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:donlluque@gmail.com)](mailto:donlluque@gmail.com)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
 <br/>
 
+## 💼 Sample Projects
 
-<h1 align="center">Thanks a lot for your visit, hope to see you around some time</h1>
+### [CSV Tool](https://github.com/donlluque/csv_tool)
+Production-ready CLI for CSV operations with validation, transformation, and quality reporting.
+
+**Stack:** Python, Pandas, argparse, logging
+
+---
+
+*Additional automation examples coming soon*
+
+<br/>
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/Luis_Luque-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donlluque/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:donlluque@gmail.com)
+
+<h2 align="center">
+  <strong>Message me with sample files and requirements for a delivery plan</strong>
+</h2>
