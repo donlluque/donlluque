@@ -39,9 +39,19 @@ I build Python automation solutions that convert manual file/API tasks into vali
 ## 💼 Sample Projects
 
 ### [CSV Tool](https://github.com/donlluque/csv_tool)
-Production-ready CLI for CSV operations with validation, transformation, and quality reporting.
+Production-ready CLI for CSV/Excel operations with validation, transformation, and quality reporting.
 
 **Stack:** Python, Pandas, argparse, logging
+
+### [API ETL Tool](https://github.com/donlluque/api_etl)
+Extract paginated REST API data to CSV/XLSX with field filtering, authentication, and rate limiting.
+
+**Stack:** Python, Pandas, requests, python-dotenv
+
+### [PDF Batch Tools](https://github.com/donlluque/pdf_tool)
+Text extraction and batch PDF renaming using regex patterns. Useful for organizing invoice batches and document archives.
+
+**Stack:** Python, pdfplumber, regex
 
 ---
 
